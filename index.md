@@ -1,5 +1,5 @@
-# Hi, I'm <Your Name>
-Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
+# Hi, I'm <Dylan Wang>
+This is my ICS4U portfolio repository, I will use it throughout the school year and potentially after as a collection of my work, reflections, and other assets. 
 
 ## Highlights
 - 🔧 Project 1: *(title)* – *(1–2 lines about what it does)*
@@ -7,7 +7,8 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 
 ## About me
-A short intro (interests, goals, tools I’m learning).
+My name is Dylan, I have beginner level coding experience but have strong experience with 3D assets. I am taking this course as an advanced introduction to potential software engineering majors in post-secondary education. 
+
 
 ---
 *Update this page by editing `index.md` in your repository.*
