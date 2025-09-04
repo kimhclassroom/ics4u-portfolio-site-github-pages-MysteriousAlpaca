@@ -1,4 +1,4 @@
-# Hi, I'm <Dylan Wang>
+# Hi, I'm <Dylan>
 This is my ICS4U portfolio repository, I will use it throughout the school year and potentially after as a collection of my work, reflections, and other assets. 
 
 ## Highlights
